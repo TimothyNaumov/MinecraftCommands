@@ -1,0 +1,6 @@
+name: Commands
+version: '${project.version}'
+main: me.timothynaumov.commands.Commands
+api-version: 1.16
+authors: [ TimothyNaumov ]
+description: Simple Commands Spigot Plugin
